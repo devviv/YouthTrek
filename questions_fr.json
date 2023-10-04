@@ -1,0 +1,290 @@
+{
+  "questions": [
+    {
+  "question": "Qu'est-ce que la littératie médiatique vise à développer chez les individus ?",
+  "options": [
+    "La capacité à ignorer les médias.",
+    "La capacité à créer des fausses informations.",
+    "La capacité à comprendre et à évaluer de manière critique les médias et les informations.",
+    "La capacité à diffuser des informations non vérifiées."
+  ],
+  "correctAnswer": "La capacité à comprendre et à évaluer de manière critique les médias et les informations."
+},
+{
+  "question": "Qu'est-ce que la littératie médiatique ?",
+  "options": [
+    "La capacité à lire rapidement des médias en ligne.",
+    "La capacité à comprendre et à évaluer de manière critique les médias et les informations.",
+    "La capacité à créer des médias numériques.",
+    "La capacité à résoudre des énigmes médiatiques."
+  ],
+  "correctAnswer": "La capacité à comprendre et à évaluer de manière critique les médias et les informations."
+},
+{
+  "question": "Quel est l'objectif principal de la littératie médiatique dans un monde numérique ?",
+  "options": [
+    "Promouvoir la désinformation.",
+    "Favoriser la diffusion de fake news.",
+    "Aider les individus à décrypter, évaluer et utiliser les médias de manière responsable.",
+    "Ignorer les médias numériques."
+  ],
+  "correctAnswer": "Aider les individus à décrypter, évaluer et utiliser les médias de manière responsable."
+},
+{
+  "question": "Pourquoi est-il important d'enseigner la littératie médiatique aux jeunes générations ?",
+  "options": [
+    "Parce que les jeunes n'utilisent pas les médias numériques.",
+    "Pour qu'ils deviennent de meilleurs créateurs de médias.",
+    "Pour les aider à comprendre et à naviguer dans un monde numérique saturé d'informations.",
+    "Parce que cela n'a pas d'importance."
+  ],
+  "correctAnswer": "Pour les aider à comprendre et à naviguer dans un monde numérique saturé d'informations."
+}
+,
+{
+  "question": "Qu'est-ce que la littératie médiatique peut aider à prévenir ?",
+  "options": [
+    "Les nouvelles technologies.",
+    "L'analphabétisme.",
+    "La désinformation et la diffusion de fake news.",
+    "La créativité en ligne."
+  ],
+  "correctAnswer": "La désinformation et la diffusion de fake news."
+}
+,
+{
+  "question": "Quelle compétence est essentielle pour la littératie médiatique en ligne ?",
+  "options": [
+    "Savoir créer des vidéos virales.",
+    "Pouvoir partager toutes les informations sans vérification.",
+    "Avoir de nombreux abonnés sur les médias sociaux.",
+    "Savoir reconnaître les biais médiatiques et les fake news en ligne."
+  ],
+  "correctAnswer": "Savoir reconnaître les biais médiatiques et les fake news en ligne."
+}
+,
+{
+  "question": "Comment pouvez-vous vérifier la crédibilité d'une source d'information en ligne ?",
+  "options": [
+    "En croyant tout ce qui est écrit sur Internet.",
+    "En consultant plusieurs sources d'information indépendantes.",
+    "En partageant immédiatement l'information sur les réseaux sociaux.",
+    "En ignorant complètement l'information en ligne."
+  ],
+  "correctAnswer": "En consultant plusieurs sources d'information indépendantes."
+}
+,
+{
+  "question": "Quel est le rôle de l'éducation aux médias dans la littératie médiatique ?",
+  "options": [
+    "Promouvoir la désinformation.",
+    "Encourager la diffusion de fake news.",
+    "Aider les individus à comprendre les médias numériques.",
+    "Ignorer complètement les médias numériques."
+  ],
+  "correctAnswer": "Aider les individus à comprendre les médias numériques."
+}
+,
+{
+  "question": "Pourquoi est-il important d'enseigner la littératie médiatique dès le plus jeune âge ?",
+  "options": [
+    "Parce que cela n'a pas d'importance.",
+    "Pour que les jeunes deviennent de meilleurs créateurs de médias.",
+    "Pour les aider à développer des compétences critiques et à éviter la désinformation.",
+    "Parce que les jeunes n'utilisent pas Internet."
+  ],
+  "correctAnswer": "Pour les aider à développer des compétences critiques et à éviter la désinformation."
+}
+,
+{
+  "question": "Quels sont les avantages de la littératie médiatique pour les individus ?",
+  "options": [
+    "Aucun avantage, c'est une perte de temps.",
+    "La capacité à distinguer les informations véridiques des fausses.",
+    "La possibilité de partager toutes les informations sans restriction.",
+    "La capacité à ignorer les médias numériques."
+  ],
+  "correctAnswer": "La capacité à distinguer les informations véridiques des fausses."
+}
+,
+{
+  "question": "Pourquoi est-il important d'enseigner la littératie médiatique aux jeunes générations ?",
+  "options": [
+    "Parce que les jeunes n'utilisent pas les médias numériques.",
+    "Pour qu'ils deviennent de meilleurs créateurs de médias.",
+    "Pour les aider à comprendre et à naviguer dans un monde numérique saturé d'informations.",
+    "Parce que cela n'a pas d'importance."
+  ],
+  "correctAnswer": "Pour les aider à comprendre et à naviguer dans un monde numérique saturé d'informations."
+}
+
+
+,
+{
+  "question": "Que devriez-vous faire si vous identifiez une fake news en ligne ?",
+  "options": [
+    "La partager immédiatement pour que tout le monde puisse la voir.",
+    "La signaler à la plateforme en ligne et la corriger si possible.",
+    "L'ignorer et ne rien faire à ce sujet.",
+    "La répandre encore plus pour la rendre virale."
+  ],
+  "correctAnswer": "La signaler à la plateforme en ligne et la corriger si possible."
+}
+,
+{
+  "question": "Pourquoi la désinformation en ligne est-elle dangereuse ?",
+  "options": [
+    "Parce qu'elle rend les informations ennuyeuses.",
+    "Parce qu'elle peut influencer les opinions, causer la confusion et nuire à la société.",
+    "Parce qu'elle est toujours amusante à lire.",
+    "Parce qu'elle n'a aucun impact sur les gens."
+  ],
+  "correctAnswer": "Parce qu'elle peut influencer les opinions, causer la confusion et nuire à la société."
+}
+,
+{
+  "question": "Comment pouvez-vous vérifier si une information en ligne est vraie ou fausse ?",
+  "options": [
+    "En ne vérifiant jamais les informations en ligne.",
+    "En croyant toujours ce que vous lisez sur Internet.",
+    "En recherchant des sources fiables et en vérifiant les faits.",
+    "En partageant immédiatement l'information avec vos amis."
+  ],
+  "correctAnswer": "En recherchant des sources fiables et en vérifiant les faits."
+}
+,
+{
+  "question": "Quelle est l'une des principales raisons pour lesquelles la désinformation se propage en ligne ?",
+  "options": [
+    "Parce que les réseaux sociaux n'existent pas.",
+    "Parce que les médias traditionnels vérifient toutes les informations en ligne.",
+    "Parce que les gens partagent rapidement des informations sans vérification.",
+    "Parce que la désinformation n'existe pas en ligne."
+  ],
+  "correctAnswer": "Parce que les gens partagent rapidement des informations sans vérification."
+}
+,
+{
+  "question": "Quelle est l'une des principales raisons pour lesquelles la désinformation se propage en ligne ?",
+  "options": [
+    "Parce que les réseaux sociaux n'existent pas.",
+    "Parce que les médias traditionnels vérifient toutes les informations en ligne.",
+    "Parce que les gens partagent rapidement des informations sans vérification.",
+    "Parce que la désinformation n'existe pas en ligne."
+  ],
+  "correctAnswer": "Parce que les gens partagent rapidement des informations sans vérification."
+}
+,
+{
+  "question": "Comment pouvez-vous identifier une fake news en ligne ?",
+  "options": [
+    "En croyant toujours que tout est vrai en ligne.",
+    "En partageant immédiatement toutes les informations que vous trouvez.",
+    "En vérifiant les faits, en recherchant la source et en regardant si d'autres médias fiables en parlent.",
+    "En signalant toutes les informations en ligne comme fake news."
+  ],
+  "correctAnswer": "En vérifiant les faits, en recherchant la source et en regardant si d'autres médias fiables en parlent."
+}
+,
+{
+  "question": "Quel rôle jouent les médias sociaux dans la diffusion de la désinformation en ligne ?",
+  "options": [
+    "Ils ne sont pas du tout impliqués dans la diffusion de la désinformation.",
+    "Ils contribuent à la diffusion rapide de la désinformation en permettant aux utilisateurs de partager rapidement des informations.",
+    "Ils vérifient toujours les informations avant de les autoriser sur leurs plateformes.",
+    "Ils sont des médias traditionnels, donc ils ne sont pas concernés par la désinformation en ligne."
+  ],
+  "correctAnswer": "Ils contribuent à la diffusion rapide de la désinformation en permettant aux utilisateurs de partager rapidement des informations."
+}
+,
+{
+  "question": "Que devriez-vous faire avant de partager une information en ligne ?",
+  "options": [
+    "La partager immédiatement sans réfléchir.",
+    "La signaler comme fake news sans vérification.",
+    "La vérifier en utilisant des sources fiables.",
+    "L'ignorer complètement."
+  ],
+  "correctAnswer": "La vérifier en utilisant des sources fiables."
+}
+,
+{
+  "question": "Pourquoi est-il important de vérifier la source d'une information en ligne ?",
+  "options": [
+    "Parce que toutes les sources en ligne sont fiables.",
+    "Parce que la source peut vous donner des cadeaux.",
+    "Parce que la source peut être biaisée ou peu fiable.",
+    "Parce que la source est toujours inconnue en ligne."
+  ],
+  "correctAnswer": "Parce que la source peut être biaisée ou peu fiable."
+}
+,
+{
+  "question": "Qu'est-ce qu'une fake news ?",
+  "options": [
+    "Une information vérifiée et exacte.",
+    "Une information intentionnellement trompeuse ou fausse présentée comme vraie.",
+    "Une information qui n'est diffusée que sur les médias traditionnels.",
+    "Une information sur des événements historiques."
+  ],
+  "correctAnswer": "Une information intentionnellement trompeuse ou fausse présentée comme vraie."
+}
+,
+{
+  "question": "Pourquoi est-il essentiel de sensibiliser le public à la désinformation en ligne ?",
+  "options": [
+    "Parce que la désinformation n'existe pas en ligne.",
+    "Pour que les gens deviennent moins prudents en ligne.",
+    "Pour aider les individus à reconnaître et à contrer la désinformation et à prendre des décisions éclairées.",
+    "Parce que la désinformation est toujours inoffensive."
+  ],
+  "correctAnswer": "Pour aider les individus à reconnaître et à contrer la désinformation et à prendre des décisions éclairées."
+}
+,
+{
+  "question": "Quelle est la responsabilité des médias et des plateformes en ligne en ce qui concerne la désinformation ?",
+  "options": [
+    "Ils ne sont pas du tout responsables de la désinformation.",
+    "Ils doivent vérifier toutes les informations avant de les publier.",
+    "Ils doivent prendre des mesures pour réduire la diffusion de la désinformation sur leurs plateformes.",
+    "Ils ne sont responsables que de la diffusion de vraies informations."
+  ],
+  "correctAnswer": "Ils doivent prendre des mesures pour réduire la diffusion de la désinformation sur leurs plateformes."
+}
+,
+{
+  "question": "Que pouvez-vous faire pour lutter contre la désinformation en ligne ?",
+  "options": [
+    "Partager toutes les informations que vous trouvez, qu'elles soient vraies ou fausses.",
+    "Ignorer complètement la désinformation, cela n'a pas d'importance.",
+    "Éduquer les autres sur la manière de reconnaître et d'éviter la désinformation.",
+    "Créer plus de fake news pour lutter contre la désinformation."
+  ],
+  "correctAnswer": "Éduquer les autres sur la manière de reconnaître et d'éviter la désinformation."
+}
+,
+{
+  "question": "Quelles sont certaines des conséquences de la désinformation en ligne ?",
+  "options": [
+    "Aucune conséquence, c'est inoffensif.",
+    "La désinformation peut causer la peur, la panique et l'instabilité.",
+    "La désinformation peut rendre les gens plus confiants dans les médias.",
+    "La désinformation n'affecte pas la société."
+  ],
+  "correctAnswer": "La désinformation peut causer la peur, la panique et l'instabilité."
+}
+,
+{
+  "question": "Quel est l'objectif principal des créateurs de fake news en ligne ?",
+  "options": [
+    "Fournir des informations vérifiées et précises.",
+    "Causer la confusion et la méfiance envers les médias et les informations.",
+    "Promouvoir des sources d'information fiables.",
+    "Informer le public de manière équilibrée."
+  ],
+  "correctAnswer": "Causer la confusion et la méfiance envers les médias et les informations."
+}
+
+
+  ]
+}

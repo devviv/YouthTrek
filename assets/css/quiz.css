@@ -1,0 +1,9 @@
+.gifs img{
+    width: 200px;
+    height: 200px;
+    top: -500px;
+    left: 7%;
+    position: fixed;
+    transition: 1s;
+    z-index: 1;
+}

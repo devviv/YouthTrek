@@ -1,0 +1,606 @@
+{
+  "questions": [
+    {
+  "question": "What is two-factor authentication in online security?",
+  "options": [
+    "Age verification before accessing a website.",
+    "Identity validation online by a trusted third party.",
+    "Verifying the authenticity of online information.",
+    "A security process that requires two forms of authentication before accessing an online account."
+  ],
+  "correctAnswer": "A security process that requires two forms of authentication before accessing an online account."
+},
+{
+  "question": "What can you do to protect your online privacy?",
+  "options": [
+    "Nothing, as it's impossible to protect online privacy.",
+    "Share all personal information on social media.",
+    "Use weak passwords and reuse them on all websites.",
+    "Use strong passwords, enable two-factor authentication, limit sharing personal information online."
+  ],
+  "correctAnswer": "Use strong passwords, enable two-factor authentication, limit sharing personal information online."
+}
+,
+{
+  "question": "What are some threats to online privacy?",
+  "options": [
+    "There are no threats to online privacy.",
+    "Over-sharing personal information, identity theft, excessive surveillance, online harassment.",
+    "Online privacy is only threatened by governments.",
+    "Online privacy is 100% protected by tech companies."
+  ],
+  "correctAnswer": "Over-sharing personal information, identity theft, excessive surveillance, online harassment."
+}
+,
+{
+  "question": "Why is it important to protect your online privacy?",
+  "options": [
+    "Because online privacy doesn't matter.",
+    "To avoid receiving online advertisements.",
+    "To protect personal data and prevent privacy breaches.",
+    "To freely share all personal information with the world."
+  ],
+  "correctAnswer": "To protect personal data and prevent privacy breaches."
+}
+,
+{
+  "question": "What is online media literacy?",
+  "options": [
+    "Sharing all personal information online.",
+    "The practice of preserving the confidentiality of personal information when using it online.",
+    "Deleting all online information.",
+    "Constantly monitoring others' online privacy."
+  ],
+  "correctAnswer": "The practice of preserving the confidentiality of personal information when using it online."
+}
+, {
+  "question": "What is the responsibility of media and online platforms regarding media literacy?",
+  "options": [
+    "They have no responsibility regarding media literacy.",
+    "They must verify all information before publishing it.",
+    "They must take measures to reduce the spread of misinformation on their platforms.",
+    "They are only responsible for sharing accurate information."
+  ],
+  "correctAnswer": "They must take measures to reduce the spread of misinformation on their platforms."
+}
+, {
+  "question": "How can you check the credibility of an online information source?",
+  "options": [
+    "By believing everything written on the internet.",
+    "By consulting multiple independent sources of information.",
+    "By immediately sharing information on social media.",
+    "By completely ignoring online information."
+  ],
+  "correctAnswer": "By consulting multiple independent sources of information."
+}
+, {
+  "question": "What is the role of media education in media literacy?",
+  "options": [
+    "To promote misinformation.",
+    "To encourage the spread of fake news.",
+    "To help individuals understand digital media.",
+    "To ignore digital media entirely."
+  ],
+  "correctAnswer": "To help individuals understand digital media."
+}
+,
+{
+  "question": "Why is it important to educate youth about media literacy in digital spaces?",
+  "options": [
+    "Because it's not important at all.",
+    "So that young people become better creators of media content.",
+    "To help them develop critical skills and avoid misinformation.",
+    "Because young people don't use the internet."
+  ],
+  "correctAnswer": "To help them develop critical skills and avoid misinformation."
+}
+,
+{
+  "question": "Why is it important to educate youth about media literacy in digital spaces?",
+  "options": [
+    "Because it's not important at all.",
+    "So that young people become better creators of media content.",
+    "To help them develop critical skills and avoid misinformation.",
+    "Because young people don't use the internet."
+  ],
+  "correctAnswer": "To help them develop critical skills and avoid misinformation."
+}
+,
+{
+  "question": "What is the role of critical thinking in media literacy?",
+  "options": [
+    "Critical thinking is not relevant to media literacy.",
+    "Critical thinking helps individuals analyze information, discern credibility, and make informed decisions.",
+    "Critical thinking is only necessary for academics.",
+    "Critical thinking is the same as accepting information at face value."
+  ],
+  "correctAnswer": "Critical thinking helps individuals analyze information, discern credibility, and make informed decisions."
+}
+,
+{
+  "question": "How can you fact-check information you find online?",
+  "options": [
+    "By ignoring any information that seems suspicious.",
+    "By conducting research and verifying the information with credible sources.",
+    "By sharing it immediately with friends.",
+    "By assuming all online information is true."
+  ],
+  "correctAnswer": "By conducting research and verifying the information with credible sources."
+}
+,
+{
+  "question": "What does the term 'filter bubble' refer to in online media consumption?",
+  "options": [
+    "A protective shield against all online information.",
+    "A personal echo chamber where individuals are exposed only to information and opinions that align with their existing views.",
+    "A type of online advertising.",
+    "A term used to describe online privacy settings."
+  ],
+  "correctAnswer": "A personal echo chamber where individuals are exposed only to information and opinions that align with their existing views."
+}
+,
+{
+  "question": "Why is it important to be critical of information found online?",
+  "options": [
+    "Because all online information is accurate and trustworthy.",
+    "Because being critical helps identify misinformation and make informed decisions.",
+    "Because being critical is not relevant in the digital age.",
+    "Because online information should always be blindly trusted."
+  ],
+  "correctAnswer": "Because being critical helps identify misinformation and make informed decisions."
+}
+,
+{
+  "question": "What is the concept of 'clickbait' in online media?",
+  "options": [
+    "A reliable and trustworthy news source.",
+    "Content that uses misleading or sensational headlines to attract clicks and views.",
+    "An online game.",
+    "An outdated term no longer used."
+  ],
+  "correctAnswer": "Content that uses misleading or sensational headlines to attract clicks and views."
+}
+,{
+      "question": "What is fake news?",
+      "options": [
+        "Accurate and verified information.",
+        "Intentionally deceptive or false information presented as true.",
+        "Information only found in traditional media.",
+        "Historical events."
+      ],
+      "correctAnswer": "Intentionally deceptive or false information presented as true."
+    },
+    {
+      "question": "Why is it important to check the source of information online?",
+      "options": [
+        "Because all online sources are reliable.",
+        "Because the source may offer you gifts.",
+        "Because the source can be biased or unreliable.",
+        "Because the source is always unknown online."
+      ],
+      "correctAnswer": "Because the source can be biased or unreliable."
+    },
+    {
+      "question": "What should you do before sharing information online?",
+      "options": [
+        "Share it immediately without thinking.",
+        "Report it as fake news without verification.",
+        "Check it using reliable sources.",
+        "Completely ignore it."
+      ],
+      "correctAnswer": "Check it using reliable sources."
+    },
+    {
+      "question": "What role do social media play in the spread of online disinformation?",
+      "options": [
+        "They are not involved at all in spreading disinformation.",
+        "They contribute to the rapid spread of disinformation by allowing users to share information quickly.",
+        "They always verify information before allowing it on their platforms.",
+        "They are traditional media, so they are not concerned with online disinformation."
+      ],
+      "correctAnswer": "They contribute to the rapid spread of disinformation by allowing users to share information quickly."
+    },
+    {
+      "question": "How can you identify fake news online?",
+      "options": [
+        "By always believing that everything online is true.",
+        "By immediately sharing all information you find.",
+        "By fact-checking, looking at the source, and seeing if other reliable media are reporting it.",
+        "By reporting all online information as fake news."
+      ],
+      "correctAnswer": "By fact-checking, looking at the source, and seeing if other reliable media are reporting it."
+    },
+    {
+      "question": "What is the primary goal of creators of fake news online?",
+      "options": [
+        "To provide verified and accurate information.",
+        "To cause confusion and distrust toward media and information.",
+        "To promote reliable information sources.",
+        "To provide balanced information to the public."
+      ],
+      "correctAnswer": "To cause confusion and distrust toward media and information."
+    },
+    {
+      "question": "What are some consequences of online disinformation?",
+      "options": [
+        "No consequences; it's harmless.",
+        "Disinformation can cause fear, panic, and instability.",
+        "Disinformation makes people more confident in the media.",
+        "Disinformation doesn't affect society."
+      ],
+      "correctAnswer": "Disinformation can cause fear, panic, and instability."
+    },
+    {
+      "question": "What can you do to combat online disinformation?",
+      "options": [
+        "Share all information you find, whether true or false.",
+        "Completely ignore disinformation; it doesn't matter.",
+        "Educate others on how to recognize and avoid disinformation.",
+        "Create more fake news to fight disinformation."
+      ],
+      "correctAnswer": "Educate others on how to recognize and avoid disinformation."
+    },
+    {
+      "question": "What is the responsibility of media and online platforms regarding disinformation?",
+      "options": [
+        "They have no responsibility regarding disinformation.",
+        "They must verify all information before publishing it.",
+        "They must take measures to reduce the spread of disinformation on their platforms.",
+        "They are only responsible for sharing accurate information."
+      ],
+      "correctAnswer": "They must take measures to reduce the spread of disinformation on their platforms."
+    },
+    {
+      "question": "Why is it essential to raise awareness about online disinformation?",
+      "options": [
+        "Because online disinformation doesn't exist.",
+        "To make people less cautious online.",
+        "To help individuals recognize and counter disinformation and make informed decisions.",
+        "Because disinformation is always harmless."
+      ],
+      "correctAnswer": "To help individuals recognize and counter disinformation and make informed decisions."
+    },
+    {
+      "question": "What is the concept of 'clickbait' in online media?",
+      "options": [
+        "A reliable and trustworthy news source.",
+        "Content that uses misleading or sensational headlines to attract clicks and views.",
+        "An online game.",
+        "An outdated term no longer used."
+      ],
+      "correctAnswer": "Content that uses misleading or sensational headlines to attract clicks and views."
+    },
+    {
+      "question": "Why is it important to be critical of information found online?",
+      "options": [
+        "Because all online information is accurate and trustworthy.",
+        "Because being critical helps identify misinformation and make informed decisions.",
+        "Because being critical is not relevant in the digital age.",
+        "Because online information should always be blindly trusted."
+      ],
+      "correctAnswer": "Because being critical helps identify misinformation and make informed decisions."
+    },
+    {
+      "question": "What does the term 'filter bubble' refer to in online media consumption?",
+      "options": [
+        "A protective shield against all online information.",
+        "A personal echo chamber where individuals are exposed only to information and opinions that align with their existing views.",
+        "A type of online advertising.",
+        "A term used to describe online privacy settings."
+      ],
+      "correctAnswer": "A personal echo chamber where individuals are exposed only to information and opinions that align with their existing views."
+    },
+    {
+      "question": "How can you fact-check information you find online?",
+      "options": [
+        "By ignoring any information that seems suspicious.",
+        "By conducting research and verifying the information with credible sources.",
+        "By sharing it immediately with friends.",
+        "By assuming all online information is true."
+      ],
+      "correctAnswer": "By conducting research and verifying the information with credible sources."
+    },
+    {
+      "question": "What is social media?",
+      "options": [
+        "A type of food.",
+        "An online platform for socializing and sharing information.",
+        "A physical gathering of friends.",
+        "A type of traditional media."
+      ],
+      "correctAnswer": "An online platform for socializing and sharing information."
+    },
+    {
+      "question": "Why is responsible use of social media important?",
+      "options": [
+        "It's not important; social media is just for fun.",
+        "Because social media has no impact on real-life relationships.",
+        "Because it can affect your reputation, relationships, and mental health.",
+        "Because everyone should be constantly connected online."
+      ],
+      "correctAnswer": "Because it can affect your reputation, relationships, and mental health."
+    },
+    {
+      "question": "What are some potential risks of oversharing on social media?",
+      "options": [
+        "There are no risks to oversharing on social media.",
+        "Exposing personal information, identity theft, and safety concerns.",
+        "Getting more followers and likes.",
+        "Nothing, it's all harmless fun."
+      ],
+      "correctAnswer": "Exposing personal information, identity theft, and safety concerns."
+    },
+    {
+      "question": "How can you protect your privacy on social media?",
+      "options": [
+        "By sharing everything about your life, including your address and phone number.",
+        "By accepting friend requests from everyone who sends them.",
+        "By using strong, unique passwords, adjusting privacy settings, and being cautious about what you share.",
+        "Privacy on social media is not important."
+      ],
+      "correctAnswer": "By using strong, unique passwords, adjusting privacy settings, and being cautious about what you share."
+    },
+    {
+      "question": "What is cyberbullying?",
+      "options": [
+        "A new form of dance.",
+        "A term used to describe online shopping.",
+        "A form of harassment or bullying that occurs online.",
+        "A type of computer virus."
+      ],
+      "correctAnswer": "A form of harassment or bullying that occurs online."
+    },
+    {
+      "question": "How can you deal with cyberbullying or online harassment?",
+      "options": [
+        "Respond with more insults and aggression.",
+        "Ignore it and hope it goes away on its own.",
+        "Report it to the social media platform, block the person, and seek support from trusted adults.",
+        "Share it with others for a laugh."
+      ],
+      "correctAnswer": "Report it to the social media platform, block the person, and seek support from trusted adults."
+    },
+    {
+      "question": "What is a digital footprint?",
+      "options": [
+        "A type of shoe.",
+        "A trail of information you leave online, including your posts, comments, and online activity.",
+        "A physical footprint left in the sand.",
+        "A type of cookie on your computer."
+      ],
+      "correctAnswer": "A trail of information you leave online, including your posts, comments, and online activity."
+    },
+    {
+      "question": "Why is it important to think before you post on social media?",
+      "options": [
+        "Because you should never post anything on social media.",
+        "Because it's impossible to edit or delete posts once they're online.",
+        "Because nobody reads posts on social media.",
+        "Because social media is just for jokes and memes."
+      ],
+      "correctAnswer": "Because it's impossible to edit or delete posts once they're online."
+    },
+    {
+      "question": "What is online etiquette?",
+      "options": [
+        "A type of online game.",
+        "A set of rules and guidelines for polite and respectful behavior online.",
+        "A way to show off your online skills.",
+        "A type of social media account."
+      ],
+      "correctAnswer": "A set of rules and guidelines for polite and respectful behavior online."
+    },
+    {
+      "question": "How can you be a responsible digital citizen on social media?",
+      "options": [
+        "By posting everything you think, regardless of its impact on others.",
+        "By sharing personal information with strangers online.",
+        "By being respectful, kind, and responsible in your online interactions.",
+        "By avoiding social media altogether."
+      ],
+      "correctAnswer": "By being respectful, kind, and responsible in your online interactions."
+    },
+    {
+      "question": "What is the 'like' culture on social media?",
+      "options": [
+        "A culture of disliking everything you see online.",
+        "A culture of only liking posts from close friends.",
+        "A culture of seeking validation through the number of likes and comments on your posts.",
+        "A type of social media platform."
+      ],
+      "correctAnswer": "A culture of seeking validation through the number of likes and comments on your posts."
+    },
+    {
+      "question": "How can you avoid the negative aspects of the 'like' culture on social media?",
+      "options": [
+        "By striving to get the most likes and comments on your posts.",
+        "By ignoring likes and comments altogether.",
+        "By remembering that your self-worth is not determined by online validation and focusing on genuine connections.",
+        "By posting negative comments on others' posts."
+      ],
+      "correctAnswer": "By remembering that your self-worth is not determined by online validation and focusing on genuine connections."
+    },
+    {
+      "question": "What should you do if you encounter false information or a hoax on social media?",
+      "options": [
+        "Share it immediately with all your followers.",
+        "Ignore it and pretend it doesn't exist.",
+        "Report it as false information and consider fact-checking before sharing anything.",
+        "Create more false information to counter it."
+      ],
+      "correctAnswer": "Report it as false information and consider fact-checking before sharing anything."
+    },
+    {
+      "question": "How can you contribute positively to online communities and discussions?",
+      "options": [
+        "By spreading rumors and gossip.",
+        "By engaging in online arguments and conflicts.",
+        "By sharing personal information with strangers.",
+        "By promoting respectful and constructive conversations, supporting others, and providing helpful information."
+      ],
+      "correctAnswer": "By promoting respectful and constructive conversations, supporting others, and providing helpful information."
+    },
+    {
+      "question": "What is digital literacy in the context of social media?",
+      "options": [
+        "The ability to read digital clocks.",
+        "The skill of posting the most pictures on social media.",
+        "The ability to use technology to find information, evaluate its credibility, and engage responsibly online.",
+        "The ability to type quickly on a computer keyboard."
+      ],
+      "correctAnswer": "The ability to use technology to find information, evaluate its credibility, and engage responsibly online."
+    },
+    {
+      "question": "What does 'online ethics' refer to?",
+      "options": [
+        "A set of rules for offline activities.",
+        "A code of conduct for ethical behavior on the internet.",
+        "A type of online game.",
+        "A form of online advertising."
+      ],
+      "correctAnswer": "A code of conduct for ethical behavior on the internet."
+    },
+    {
+      "question": "Why is online ethics important?",
+      "options": [
+        "It's not important; anything goes on the internet.",
+        "Because online actions can impact individuals and society, and ethical behavior is crucial for a positive online environment.",
+        "Because online ethics only apply to businesses.",
+        "Because there are no consequences for unethical online behavior."
+      ],
+      "correctAnswer": "Because online actions can impact individuals and society, and ethical behavior is crucial for a positive online environment."
+    },
+    {
+      "question": "What is cyberbullying?",
+      "options": [
+        "A form of online marketing.",
+        "A harmless form of online joking.",
+        "A type of online harassment or bullying.",
+        "A type of computer virus."
+      ],
+      "correctAnswer": "A type of online harassment or bullying."
+    },
+    {
+      "question": "How can you promote online ethics in your online interactions?",
+      "options": [
+        "By engaging in cyberbullying and trolling.",
+        "By ignoring online etiquette.",
+        "By being respectful, kind, and considerate in your online communications.",
+        "By sharing personal information freely."
+      ],
+      "correctAnswer": "By being respectful, kind, and considerate in your online communications."
+    },
+    {
+      "question": "What are 'trolls' on the internet?",
+      "options": [
+        "A type of mythical creature.",
+        "People who are always happy and positive online.",
+        "Individuals who engage in disruptive, negative, or provocative online behavior to elicit reactions.",
+        "A form of online advertising."
+      ],
+      "correctAnswer": "Individuals who engage in disruptive, negative, or provocative online behavior to elicit reactions."
+    },
+    {
+      "question": "What is 'flaming' in online communication?",
+      "options": [
+        "A way of showing support and appreciation online.",
+        "A form of respectful disagreement.",
+        "Engaging in friendly conversations.",
+        "Sending abusive or aggressive messages online."
+      ],
+      "correctAnswer": "Sending abusive or aggressive messages online."
+    },
+    {
+      "question": "Why is it important to respect others' privacy online?",
+      "options": [
+        "Because there is no privacy online.",
+        "Because it's fun to invade others' privacy.",
+        "Because respecting privacy is a fundamental ethical principle and builds trust.",
+        "Because others' privacy doesn't matter online."
+      ],
+      "correctAnswer": "Because respecting privacy is a fundamental ethical principle and builds trust."
+    },
+    {
+      "question": "What is 'doxxing'?",
+      "options": [
+        "A type of online gaming strategy.",
+        "A form of online competition.",
+        "The practice of publicly revealing private or personal information about an individual without their consent.",
+        "A form of online advertising."
+      ],
+      "correctAnswer": "The practice of publicly revealing private or personal information about an individual without their consent."
+    },
+    {
+      "question": "What does 'phishing' refer to in online ethics?",
+      "options": [
+        "A type of online shopping.",
+        "A technique for reporting false information online.",
+        "A form of online harassment.",
+        "A technique used to deceive individuals into revealing personal or financial information."
+      ],
+      "correctAnswer": "A technique used to deceive individuals into revealing personal or financial information."
+    },
+    {
+      "question": "How can you protect yourself from falling victim to online scams and phishing attempts?",
+      "options": [
+        "By sharing personal information openly.",
+        "By clicking on all links and attachments received in emails or messages.",
+        "By being cautious, not clicking on suspicious links, and verifying the source of messages or emails.",
+        "By sharing your passwords online."
+      ],
+      "correctAnswer": "By being cautious, not clicking on suspicious links, and verifying the source of messages or emails."
+    },
+    {
+      "question": "What is 'netiquette' in the context of online ethics?",
+      "options": [
+        "A type of online game.",
+        "A set of rules and guidelines for polite and respectful behavior online.",
+        "A form of online marketing.",
+        "A type of computer virus."
+      ],
+      "correctAnswer": "A set of rules and guidelines for polite and respectful behavior online."
+    },
+    {
+      "question": "What is 'hate speech' on the internet?",
+      "options": [
+        "A form of online promotion.",
+        "A type of constructive criticism.",
+        "Speech that promotes violence, discrimination, or hostility based on race, gender, religion, or other factors.",
+        "A form of online humor."
+      ],
+      "correctAnswer": "Speech that promotes violence, discrimination, or hostility based on race, gender, religion, or other factors."
+    },
+    {
+      "question": "Why should hate speech and online harassment be reported?",
+      "options": [
+        "Because reporting doesn't make a difference.",
+        "Because online platforms don't take action against hate speech.",
+        "Because reporting can help remove harmful content and protect others.",
+        "Because online harassment is a normal part of online life."
+      ],
+      "correctAnswer": "Because reporting can help remove harmful content and protect others."
+    },
+    {
+      "question": "What is 'copyright infringement' in online ethics?",
+      "options": [
+        "A way to support online creators.",
+        "Respecting the rights of content creators.",
+        "The unauthorized use or reproduction of someone else's work without permission.",
+        "A type of online advertising."
+      ],
+      "correctAnswer": "The unauthorized use or reproduction of someone else's work without permission."
+    },
+    {
+      "question": "How can you avoid copyright infringement when sharing content online?",
+      "options": [
+        "By always using other people's content without giving credit.",
+        "By ignoring copyright laws and using any content you find.",
+        "By obtaining permission, giving credit when necessary, and respecting copyright laws.",
+        "By avoiding sharing any content online."
+      ],
+      "correctAnswer": "By obtaining permission, giving credit when necessary, and respecting copyright laws."
+    }
+
+  ]
+
+}
